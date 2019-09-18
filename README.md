@@ -10,8 +10,8 @@ There are different ways of making classifications. One idea is shown schematica
 
 ### Prerequisites
 
-- This notebook loads `data/01_heights_weights_genders.csv` locates in Data folder.
+- This notebook loads [01_heights_weights_genders.csv](./data/01_heights_weights_genders.csv) locates in Data folder.
 - [Download Anaconda](https://www.anaconda.com/distribution/).
-- Run Anaconda Navigator and launch a jupyter notebook and open the file `Mini_Project_Logistic_Regression.ipynb`
+- Run Anaconda Navigator and launch a jupyter notebook and open the file [mini-project](./Mini_Project_Logistic_Regression.ipynb)
 
 Packages applied in this project (numpy, scipy, matplotlib, pandas, seaborn, sklearn) do not require installation (default packages in anaconda). They only need to be imported in the notebook.
